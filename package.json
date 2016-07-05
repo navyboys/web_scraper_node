@@ -1,0 +1,27 @@
+{
+  "name": "web_scraper_node",
+  "version": "1.0.0",
+  "description": "a web scraper implemented by node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/navyboys/web_scraper_node.git"
+  },
+  "keywords": [
+    "node",
+    "scraper"
+  ],
+  "author": "navyboys",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/navyboys/web_scraper_node/issues"
+  },
+  "homepage": "https://github.com/navyboys/web_scraper_node#readme",
+  "dependencies": {
+    "cheerio": "^0.20.0",
+    "request": "^2.72.0"
+  }
+}
